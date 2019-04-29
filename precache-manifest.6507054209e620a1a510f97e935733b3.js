@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0abeb821b7b2ac648cfe659722559590",
+    "revision": "1675b8b4ff54c1124c01786f8a60dce1",
     "url": "/ab-websites-card-creator/index.html"
   },
   {
-    "revision": "c5287cf89f55e78cfc87",
-    "url": "/ab-websites-card-creator/static/css/main.595fca79.chunk.css"
+    "revision": "ed213e6bb43941e15bf0",
+    "url": "/ab-websites-card-creator/static/css/main.aa7986bf.chunk.css"
   },
   {
-    "revision": "4f395566dc43d931017e",
-    "url": "/ab-websites-card-creator/static/js/2.9320c7f3.chunk.js"
+    "revision": "34cf15ef907fadea6487",
+    "url": "/ab-websites-card-creator/static/js/2.1e2aecd6.chunk.js"
   },
   {
-    "revision": "c5287cf89f55e78cfc87",
-    "url": "/ab-websites-card-creator/static/js/main.5c5e6f88.chunk.js"
+    "revision": "ed213e6bb43941e15bf0",
+    "url": "/ab-websites-card-creator/static/js/main.44e19438.chunk.js"
   },
   {
     "revision": "80611be3a3c7cd3253d8",
