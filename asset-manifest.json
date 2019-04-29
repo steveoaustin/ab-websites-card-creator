@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ab-websites-card-creator/static/css/main.584f321a.chunk.css",
-    "main.js": "/ab-websites-card-creator/static/js/main.76c03ec4.chunk.js",
-    "main.js.map": "/ab-websites-card-creator/static/js/main.76c03ec4.chunk.js.map",
+    "main.css": "/ab-websites-card-creator/static/css/main.595fca79.chunk.css",
+    "main.js": "/ab-websites-card-creator/static/js/main.5c5e6f88.chunk.js",
+    "main.js.map": "/ab-websites-card-creator/static/js/main.5c5e6f88.chunk.js.map",
     "runtime~main.js": "/ab-websites-card-creator/static/js/runtime~main.635d1e03.js",
     "runtime~main.js.map": "/ab-websites-card-creator/static/js/runtime~main.635d1e03.js.map",
-    "static/js/2.b41502e9.chunk.js": "/ab-websites-card-creator/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/ab-websites-card-creator/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.9320c7f3.chunk.js": "/ab-websites-card-creator/static/js/2.9320c7f3.chunk.js",
+    "static/js/2.9320c7f3.chunk.js.map": "/ab-websites-card-creator/static/js/2.9320c7f3.chunk.js.map",
     "index.html": "/ab-websites-card-creator/index.html",
-    "precache-manifest.579ef6e3b73933a3aa7f974dcecbc947.js": "/ab-websites-card-creator/precache-manifest.579ef6e3b73933a3aa7f974dcecbc947.js",
+    "precache-manifest.248528575a5e0a7e678c553ef84f99ad.js": "/ab-websites-card-creator/precache-manifest.248528575a5e0a7e678c553ef84f99ad.js",
     "service-worker.js": "/ab-websites-card-creator/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/ab-websites-card-creator/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/ab-websites-card-creator/static/media/logo.5d5d9eef.svg"
+    "static/css/main.595fca79.chunk.css.map": "/ab-websites-card-creator/static/css/main.595fca79.chunk.css.map",
+    "static/media/abLight.svg": "/ab-websites-card-creator/static/media/abLight.e6f27088.svg"
   }
 }
