@@ -1,0 +1,74 @@
+#app {
+  font-size: 32px;
+  #formContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    #form {
+      width: 15rem;
+    }
+  }
+
+  #cardContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    #card {
+      background-color: #363551;
+      width: 14rem;
+      height: 8rem;
+
+      #logoContainer {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        #logo {
+          padding-top: 0.1rem;
+          width: 3.5rem;
+        }
+      }
+      #subtext {
+        width: 100%;
+        font-size: 1rem;
+        font-family: "Orbitron";
+        color: #6dd8ff;
+        text-align: center;
+        border-bottom: 2px solid #6dd8ff;
+      }
+
+      #name {
+        font-size: 1rem;
+        padding-top: 0.1rem;
+      }
+
+      #title {
+        font-size: 0.8rem;
+      }
+      .icon {
+        position: absolute;
+        font-size: 0.75rem;
+        color: #6dd8ff;
+        transform: translateY(0.16rem) translateX(-0.85rem);
+        margin-right: 0.1rem;
+      }
+      #title {
+        padding-bottom: 0.25rem;
+      }
+
+      #phoneIcon {
+        transform: translateY(0.1rem) translateX(-0.85rem);
+      }
+
+      .text {
+        font-family: "Metrophobic";
+        font-size: 0.65rem;
+        width: 100%;
+        text-align: center;
+        color: #eaf8f9;
+      }
+    }
+  }
+}
