@@ -62,17 +62,20 @@ class App extends Component {
             <div id="title" className="text">
               {this.state.title}
             </div>
-            <div id="phone" className="text">
-              <Icon id="phoneIcon" className="icon">
-                phone
-              </Icon>
-              {this.state.phone}
-            </div>
-            <div id="email" className="text">
-              <Icon className="icon">email</Icon>austinburkewebsites@gmail.com
-            </div>
             <div id="website" className="text">
               <Icon className="icon">language</Icon>ab-websites.com
+            </div>
+            <div id="info">
+              <div id="phone" className="text">
+                <Icon id="phoneIcon" className="icon">
+                  phone
+                </Icon>
+                {this.state.phone}
+              </div>
+
+              <div id="email" className="text">
+                <Icon className="icon">email</Icon>austinburkewebsites@gmail.com
+              </div>
             </div>
           </div>
         </div>

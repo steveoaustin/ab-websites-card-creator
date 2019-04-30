@@ -19,6 +19,7 @@
       background-color: #363551;
       width: 14rem;
       height: 8rem;
+      position: relative;
 
       #logoContainer {
         width: 100%;
@@ -40,31 +41,38 @@
       }
 
       #name {
-        font-size: 1rem;
+        font-size: 0.8rem;
         //padding-top: 0.1rem;
       }
 
       #title {
         font-size: 0.75rem;
+        padding-bottom: 0.3em;
       }
+
+      #info {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        padding-bottom: 0.2rem;
+      }
+
       .icon {
         position: absolute;
-        font-size: 0.65rem;
+        font-size: 0.6rem;
         color: #6dd8ff;
-        transform: translateY(0.18rem) translateX(-0.85rem);
+        transform: translateY(0.14rem) translateX(-0.85rem);
         margin-right: 0.1rem;
-      }
-      #title {
-        padding-bottom: 0.1rem;
       }
 
       #phoneIcon {
-        transform: translateY(0.15rem) translateX(-0.85rem);
+        transform: translateY(0.12rem) translateX(-0.85rem);
       }
 
       .text {
         font-family: "Metrophobic";
-        font-size: 0.65rem;
+        font-size: 0.6rem;
         width: 100%;
         text-align: center;
         color: #eaf8f9;
