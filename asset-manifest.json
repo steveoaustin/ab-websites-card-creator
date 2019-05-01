@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ab-websites-card-creator/static/css/main.4bea1bff.chunk.css",
+    "main.css": "/ab-websites-card-creator/static/css/main.9db4ccf3.chunk.css",
     "main.js": "/ab-websites-card-creator/static/js/main.6a26ff31.chunk.js",
     "main.js.map": "/ab-websites-card-creator/static/js/main.6a26ff31.chunk.js.map",
     "runtime~main.js": "/ab-websites-card-creator/static/js/runtime~main.635d1e03.js",
@@ -8,9 +8,9 @@
     "static/js/2.1e2aecd6.chunk.js": "/ab-websites-card-creator/static/js/2.1e2aecd6.chunk.js",
     "static/js/2.1e2aecd6.chunk.js.map": "/ab-websites-card-creator/static/js/2.1e2aecd6.chunk.js.map",
     "index.html": "/ab-websites-card-creator/index.html",
-    "precache-manifest.0560e2d452e9f3710cf01aabfc047cb1.js": "/ab-websites-card-creator/precache-manifest.0560e2d452e9f3710cf01aabfc047cb1.js",
+    "precache-manifest.eaad6a3ce2dca5f9735e021b7f80d483.js": "/ab-websites-card-creator/precache-manifest.eaad6a3ce2dca5f9735e021b7f80d483.js",
     "service-worker.js": "/ab-websites-card-creator/service-worker.js",
-    "static/css/main.4bea1bff.chunk.css.map": "/ab-websites-card-creator/static/css/main.4bea1bff.chunk.css.map",
+    "static/css/main.9db4ccf3.chunk.css.map": "/ab-websites-card-creator/static/css/main.9db4ccf3.chunk.css.map",
     "static/media/abLight.svg": "/ab-websites-card-creator/static/media/abLight.e6f27088.svg"
   }
 }
